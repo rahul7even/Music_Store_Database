@@ -16,4 +16,4 @@ Database and Tools:
 
 Schema- Music Store Database
 
-![image alt]()
+![image alt](https://github.com/rahul7even/Music_Store_Database/blob/df6560ea905102849d34ac3a38a4107b7ea8d959/schema_diagram.png)
