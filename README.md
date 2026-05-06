@@ -16,4 +16,5 @@ Database and Tools:
 
 Schema- Music Store Database
 
-![image alt](https://github.com/rahul7even/Music_Store_Database/blob/df6560ea905102849d34ac3a38a4107b7ea8d959/schema_diagram.png)
+<img width="1650" height="1275" alt="CreditCardCustomerReport" src="https://github.com/user-attachments/assets/a1d5e5ba-deef-418a-8c89-8488be04b7c8" />
+
